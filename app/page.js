@@ -8,6 +8,9 @@ export default function Page() {
       <li>
         <Link href='/assignment-2'>Assignment 2</Link>
       </li>
+      <li>
+        <Link href='/assignment-3'>Assignment 3</Link>
+      </li>
     </div>
   );
 }
